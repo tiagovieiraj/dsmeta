@@ -19,3 +19,16 @@ a:visited {
     color: unset;
     text-decoration: none;
 }
+
+.dsmeta-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+
+}
+
+.dsmeta-sales-title {
+  color: #676FFF;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
